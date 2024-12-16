@@ -1,0 +1,5 @@
+git clone ile git deneme çek
+öğrenci no adında brench aç
+öğrenci no adından dosyayı ekle ve commitle
+branch i github a push la
+pull request aç
